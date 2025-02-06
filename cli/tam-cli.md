@@ -50,7 +50,10 @@ Depending on the selected option:
 - **Checking Hardcoded Colors:**
   - The `check-colors.sh` script is executed to analyze color values.
 
-### Step 4: Exiting
+- **Automate Git Commit and Push:**
+  -Commit and Push with Custom or Predefined Messages.
+
+### Step 5: Exiting
 The user can exit the script by selecting option `4` or pressing `Ctrl + C`.
 
 ---
